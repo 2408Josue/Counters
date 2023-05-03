@@ -1,0 +1,42 @@
+body{
+    color: rgb(0, 0, 0);
+   text-align: center;
+   
+   
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'sigmar', cursive;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(117, 182, 233);
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 50px;
+}
+.show{
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 50px;
+}
+.btns{
+    padding: 20px;
+    letter-spacing: 2px;
+    
+}
